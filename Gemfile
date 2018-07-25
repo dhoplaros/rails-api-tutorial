@@ -7,6 +7,8 @@ ruby '2.5.1'
 gem 'rails', '~> 5.2.0'
 gem 'bcrypt', '~> 3.1.7'
 gem 'active_model_serializers', '~> 0.10.0'
+gem 'will_paginate', '~> 3.1.0'
+gem 'faker'
 gem 'jwt'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
